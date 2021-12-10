@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="84.330285%" x2="50%" y2="23.8378222%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F6F8FE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Elrond-Revamp" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="LandingPage-Elrond-Revamp" transform="translate(-1006.000000, -8553.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Newsletter" transform="translate(298.000000, 8441.000000)">
+                <g id="Newsletter-input" transform="translate(102.000000, 101.000000)">
+                    <g id="button" transform="translate(590.000000, 0.000000)">
+                        <path d="M34,11 L29.5,27.5 L23.40325,22.07075 L29.25475,15.89525 L21.41125,21.3155 L16,20 L34,11 Z M22.75,23.501 L22.75,29 L25.1935,25.67675 L22.75,23.501 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

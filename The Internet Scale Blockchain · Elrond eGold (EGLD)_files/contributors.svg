@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="13px" viewBox="0 0 16 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>Path</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Home-Revamp" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="LandingPage-Elrond-Revamp" transform="translate(-675.000000, -3438.000000)" fill="#9DA0B8" fill-rule="nonzero">
+            <g id="Developer-First" transform="translate(-65.000000, 2698.000000)">
+                <g id="GitHub-stuff" transform="translate(224.000000, 723.000000)">
+                    <g id="Contributors" transform="translate(516.000000, 17.000000)">
+                        <path d="M16,11.999 C16,12.438 15.55,12.999 15,12.999 L7.995,12.999 C7.456,12.999 7.001,12.552 7,12 L1,12 C0.46,12 0,11.439 0,11 C0,8.366 3,7 3,7 C3,7 3.229,6.591 3,6 C2.159,5.379 1.942,5.41 2,3 C2.058,0.581 3.367,0 4.5,0 C5.633,0 6.942,0.58 7,3 C7.058,5.41 6.841,5.379 6,6 C5.771,6.59 6,7 6,7 C6,7 7.549,7.711 8.42,9.088 C9.196,8.369 10,7.999 10,7.999 C10,7.999 10.229,7.59 10,6.999 C9.159,6.379 8.942,6.409 9,3.999 C9.058,1.58 10.367,0.999 11.5,0.999 C12.633,0.999 13.937,1.58 13.995,3.999 C14.054,6.409 13.837,6.379 12.995,6.999 C12.766,7.589 12.995,7.999 12.995,7.999 C12.995,7.999 16,9.365 16,11.999 Z" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
